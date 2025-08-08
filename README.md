@@ -48,6 +48,7 @@ Lag and rolling features were populated using the most recent historical data, e
 The model then produced Predicted_Weekly_Sales for those future weeks, showing realistic seasonal trends.
 
 🧠 Technologies Used
+
 🐍 Python
 
 📊 Pandas, NumPy – data cleaning & feature engineering
